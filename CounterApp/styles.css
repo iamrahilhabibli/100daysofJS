@@ -67,6 +67,7 @@ img {
   font-weight: 700;
   border: none;
   outline: none;
+  cursor: pointer;
 }
 button.subtract{
   background-color: orangered;
