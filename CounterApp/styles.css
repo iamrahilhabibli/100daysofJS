@@ -53,3 +53,28 @@ img {
   text-align: center;
   border-radius: 5px;
 }
+.counter__container > *{
+  margin-bottom: 2rem;
+}
+.count{
+  font-size: 4rem;
+}
+.buttons__container button{
+  padding: 1rem;
+  margin: 0 1rem;
+  font-size: 1.5rem;
+  color: white;
+  font-weight: 700;
+  border: none;
+  outline: none;
+}
+button.subtract{
+  background-color: orangered;
+}
+button.reset{
+  background-color: white;
+  color: #1c2b2d;
+}
+button.addition{
+  background-color: green;
+}
