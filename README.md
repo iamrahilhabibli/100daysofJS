@@ -1,5 +1,5 @@
 
-# 🚀 My 100 Days of JavaScript Journey 🌟
+# 🚀 My JavaScript Journey 🌟
 
 As a JavaScript enthusiast, I'm excited to share my journey with you through this GitHub repository! Here, you'll find a collection of beginner-style projects that I am aiming working on for the next 100 days.
 
