@@ -45,6 +45,7 @@ for (let i = 0; i < btns; i++) {
                 audio7.play();
                 break;
             default:
+                console.log(btnHTML);
                 break;
         }
     })
