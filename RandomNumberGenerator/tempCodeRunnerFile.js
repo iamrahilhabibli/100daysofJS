@@ -1,0 +1,1 @@
+const counterNumber = document.getElementsByClassName("count");
