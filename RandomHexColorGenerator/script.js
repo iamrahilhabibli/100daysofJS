@@ -1,5 +1,3 @@
-
-
 const randomColour = document.querySelector(".count");
 
 document.querySelector(".generate").addEventListener("click", () => {
